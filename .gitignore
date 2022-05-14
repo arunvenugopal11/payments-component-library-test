@@ -1,0 +1,15 @@
+node_modules/
+.idea/*
+.vscode/
+dist/
+*.log
+.DS_Store
+storybook-static/
+**/lib
+tsconfig.tsbuildinfo
+storybuild
+**/cypress/videos
+**/cypress/screenshots
+**/coverage
+**/.nyc_output
+results/
